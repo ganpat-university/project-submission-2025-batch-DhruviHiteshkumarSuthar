@@ -1,0 +1,84 @@
+{
+    "Angry": [
+      "The Pursuit of Happyness",
+      "A Beautiful Mind",
+      "Good Will Hunting",
+      "The Intouchables",
+      "Creed",
+      "The Blind Side",
+      "The Secret Life of Walter Mitty",
+      "Invictus",
+      "Ford v Ferrari",
+      "The Social Network"
+    ],
+    "Disgust": [
+      "Paddington",
+      "Amélie",
+      "Ratatouille",
+      "Chef",
+      "Luca",
+      "Matilda",
+      "The Grand Budapest Hotel",
+      "The Intern",
+      "School of Rock"
+    ],
+    "Fear": [
+      "Finding Nemo",
+      "The Hundred-Foot Journey",
+      "Up",
+      "The Intern",
+      "Little Miss Sunshine",
+      "The Secret Life of Walter Mitty",
+      "Brave",
+      "About Time",
+      "Inside Out"
+    ],
+    "Happy": [
+      "Coco",
+      "Zootopia",
+      "Sing",
+      "Despicable Me",
+      "Kung Fu Panda",
+      "Paddington 2",
+      "La La Land",
+      "The Lego Movie",
+      "Luca",
+      "Tangled"
+    ],
+    "Neutral": [
+      "Jiro Dreams of Sushi",
+      "Free Solo",
+      "The Great British Bake Off",
+      "The Minimalists",
+      "Our Planet",
+      "The Secret",
+      "The Social Dilemma",
+      "Chef's Table",
+      "Hearts of Darkness",
+      "Abstract: The Art of Design"
+    ],
+    "Sad": [
+      "The Intouchables",
+      "A Man Called Otto",
+      "The Blind Side",
+      "Marley & Me",
+      "The Green Mile",
+      "Wonder",
+      "Bridge to Terabithia",
+      "Good Will Hunting",
+      "Up",
+      "Soul"
+    ],
+    "Surprise": [
+      "The Prestige",
+      "Now You See Me",
+      "Inception",
+      "Knives Out",
+      "Big Fish",
+      "The Truman Show",
+      "Midnight in Paris",
+      "Everything Everywhere All At Once",
+      "The Secret Life of Walter Mitty",
+      "La La Land"
+    ]
+  }  
