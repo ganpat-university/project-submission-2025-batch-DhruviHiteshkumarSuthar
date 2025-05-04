@@ -35,5 +35,5 @@ A real-time face emotion recognition system that detects human emotions from liv
   2. Used Convolutional Neural Networks (CNN) + Recurrent Neural Networks (RNN) for improved emotion classification
 
 
-> **model.py conatins the model python code.**
+> **model.py conatins the model python code.** <br>
 > **.github\workflows directory has all the CI/CD yml files.**
